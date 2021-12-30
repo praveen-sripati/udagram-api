@@ -1,1 +1,1 @@
-# Udagram-boileplate
+[![CircleCI](https://circleci.com/gh/praveen-sripati/udagram-api/tree/main.svg?style=svg)](https://circleci.com/gh/praveen-sripati/udagram-api/tree/main)
